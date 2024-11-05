@@ -26,5 +26,6 @@ print(len(name1))
 print(len(input("What is your name?")))
 
 username = input("What is your username?")
+user_name_1 = "Jackie"
 length = len(username)
 print(length)
