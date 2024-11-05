@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b950e6a-284e-45ec-bf4b-5b05a500a6fc" name="Changes" comment="day 1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.codingexcercise1">
+  <component name="RunManager" selected="Python.day1">
     <configuration name="codingexcercise1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonprobootcamp" />
       <option name="ENV_FILES" value="" />
@@ -129,8 +129,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.codingexcercise1" />
         <item itemvalue="Python.day1" />
+        <item itemvalue="Python.codingexcercise1" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730838570866</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day 1">
+      <option name="closed" value="true" />
+      <created>1730838837670</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730838837670</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
