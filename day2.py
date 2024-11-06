@@ -47,3 +47,30 @@ print(123//17) #removes decimal places
 print(123**3) #exponential
 
 # PEMDAS rule is applied, () , **, * , /, +, -
+print(3*3+3/3-3)
+print(3*(3+3)/3-3)
+
+# assignment operator
+
+score = 0
+score +=1
+print(score)
+
+score = 0
+score -=1
+print(score)
+
+score = 0
+score *=1
+print(score)
+
+score = 0
+score /=1
+print(score)
+
+# f-string
+score = 0
+height = 1.8
+is_winning = True
+
+print(f"Your score is {score}, your height is {height}, Are you winning? {is_winning}")
