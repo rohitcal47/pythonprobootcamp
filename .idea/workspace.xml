@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b950e6a-284e-45ec-bf4b-5b05a500a6fc" name="Changes" comment="day 2">
-      <change afterPath="$PROJECT_DIR$/codingexcercise5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3.py" beforeDir="false" afterPath="$PROJECT_DIR$/day3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +57,7 @@
     "Python.codingexcercise1.executor": "Run",
     "Python.codingexcercise3.executor": "Run",
     "Python.codingexcercise4.executor": "Run",
+    "Python.codingexcercise5.executor": "Run",
     "Python.day1.executor": "Run",
     "Python.day1project.executor": "Run",
     "Python.day2.executor": "Run",
@@ -68,7 +68,7 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.codingexcercise5">
+  <component name="RunManager" selected="Python.day3">
     <configuration name="codingexcercise4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonprobootcamp" />
       <option name="ENV_FILES" value="" />
@@ -203,8 +203,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.codingexcercise5" />
         <item itemvalue="Python.day3" />
+        <item itemvalue="Python.codingexcercise5" />
         <item itemvalue="Python.day2project" />
         <item itemvalue="Python.codingexcercise4" />
         <item itemvalue="Python.day2" />
@@ -331,7 +331,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730921588028</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="day 2">
+      <option name="closed" value="true" />
+      <created>1730998722470</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730998722470</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
