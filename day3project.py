@@ -21,11 +21,11 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 *******************************************************************************
 ''')
 print("Welcome to Treasure Island. Your mission is to find the treasure.")
-left_or_right=input("Where do you want to go? left or right? ")
+left_or_right=input("Where do you want to go? \"left\" or \"right\"? ").lower()
 if left_or_right=="left":
-    swim_or_wait=input("Do you want to swim or wait? ")
+    swim_or_wait=input("Do you want to swim or wait? ").lower()
     if swim_or_wait=="wait":
-        which_door=input("Which color door do you want to enter? red, blue or yellow? ")
+        which_door=input("Which color door do you want to enter? red, blue or yellow? ").lower()
         if which_door=="yellow":
             print("You Win")
         elif which_door=="blue":
