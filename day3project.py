@@ -27,13 +27,13 @@ if left_or_right=="left":
     if swim_or_wait=="wait":
         which_door=input("Which color door do you want to enter? red, blue or yellow? ").lower()
         if which_door=="yellow":
-            print("You Win")
+            print("You found the treasure. You Win")
         elif which_door=="blue":
             print("Eaten by beasts. Game Over")
         elif which_door=="red":
             print("Burned by fire. Game Over")
         else:
-            print("Game Over")
+            print("Door does not exist. Game Over")
     else:
         print("Attacked by trout. Game Over")
 else:
