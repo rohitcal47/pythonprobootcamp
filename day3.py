@@ -47,6 +47,8 @@ elif size=="L":
     final_bill+=25
     if pepperoni == "Y":
         final_bill +=5
+else:
+    print("You typed a wrong input")
 if extra_cheese=="Y":
     final_bill+=1
 print(f"Your final bill is {final_bill}")
