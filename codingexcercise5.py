@@ -8,4 +8,4 @@ if bmi <18.5:
 elif bmi >= 25:
     print("overweight")
 else:
-    print("normal weight")
+    print("You have normal weight")
