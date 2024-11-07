@@ -28,3 +28,25 @@ if number%2==0:
     print("The number you have entered is Even")
 else:
     print("The number you have entered is Odd")
+
+
+print("Welcome to python pizza deliveries")
+size = input("What size pizza do you need? S, M or L?: ")
+pepperoni = input("Do you need pepperoni in your pizza? Y or N?: ")
+extra_cheese = input("Do you need extra cheese? Y or N?: ")
+final_bill=0
+if size=="S":
+    final_bill+=15
+    if pepperoni == "Y":
+        final_bill +=2
+elif size=="M":
+    final_bill+=20
+    if pepperoni == "Y":
+        final_bill +=3
+elif size=="L":
+    final_bill+=25
+    if pepperoni == "Y":
+        final_bill +=5
+if extra_cheese=="Y":
+    final_bill+=1
+print(f"Your final bill is {final_bill}")
